@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">Crafting Code, Shaping Solutions, and Embracing the Art of Continuous Learning! 🚀💻✨</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/om-1980/om-1980/assets/111452597/31fe0f98-c83a-47a9-8f2a-497544b9136e)">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-1980&label=Profile%20views&color=0e75b6&style=flat" alt="om-1980" /> </p>
 
 - 🌱 I’m currently learning **ai/ml**
