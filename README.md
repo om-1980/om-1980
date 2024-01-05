@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/om-1980/om-1980/assets/111452597/a8b89d99-b4f8-4091-9687-f361f683768a" alt="logo" width="100%" height="40">
+  <img src="https://github.com/om-1980/om-1980/assets/111452597/a8b89d99-b4f8-4091-9687-f361f683768a" alt="logo" width="100%" height="100">
 </p>
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">Crafting Code, Shaping Solutions, and Embracing the Art of Continuous Learning! 🚀💻✨</h3>
