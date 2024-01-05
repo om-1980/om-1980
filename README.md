@@ -1,4 +1,5 @@
-![logo](https://github.com/om-1980/om-1980/assets/111452597/0a2302da-5ba8-4c22-80a9-81002a7057a4)
+![logo](https://github.com/om-1980/om-1980/assets/111452597/4b1261c8-be90-4c1a-af4b-f3862bfd5d52)
+
 
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">Crafting Code, Shaping Solutions, and Embracing the Art of Continuous Learning! 🚀💻✨</h3>
