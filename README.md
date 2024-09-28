@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/b45916d4-078d-4bea-89d3-552bbe7a8dd1" align="left" height="350" width="100%" />  
   
 
-## **<div align="center">Hello 👋 Myself Vivek</div>**  
+# **<div align="center">Hello 👋 Myself Vivek</div>**  
   
 
 **<div align="center">Founder of Trishastik Technology | Full-Stack Developer | AI & Cybersecurity Enthusiast</div>**  
