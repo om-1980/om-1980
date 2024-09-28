@@ -4,13 +4,13 @@
 # **<div align="center">Hello 👋 Myself Vivek</div>**  
   
 
-**<div align="center">Founder of Trishastik Technology | Full-Stack Developer | AI & Cybersecurity Enthusiast</div>**  
+### **<div align="center">Founder of Trishastik Technology | Full-Stack Developer | AI & Cybersecurity Enthusiast</div>**  
   
 
 🚀 I am passionate about leveraging technology to solve real-world problems, with a strong focus on AI, cybersecurity, and full-stack development. My journey as a developer spans various domains, from building scalable applications to working on cutting-edge machine learning solutions, Salesforce remote database management, EduManage CRM Solutions, and technology consultancy services.  
   
 
-💼 Professional Highlights:  
+**💼 Professional Highlights:**  
   
 
 - Founder of Trishastik Technology, delivering CRM solutions, Salesforce remote database management, and technology consultancy.  
@@ -22,7 +22,7 @@
 - Conducted research on Autonomous Vehicles, focusing on lane detection and real-time decision-making.  
   
 
-💡 Core Skills:  
+**💡 Core Skills:**  
   
 
 - Full-Stack Development: Proficient in Next.js, TypeScript, HTML/CSS, JavaScript.  
@@ -37,7 +37,7 @@
 - Cybersecurity & Ethical Hacking: Completed an internship at C-DAC Noida in cybersecurity.  
   
 
-👨‍💻 Projects:  
+**👨‍💻 Projects:**  
   
 
 - Trishastik Technology: Expanding services in technology consultancy and CRM solutions.  
