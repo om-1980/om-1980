@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b45916d4-078d-4bea-89d3-552bbe7a8dd1" align="left" height="240" width="100%" />  
+<img src="https://github.com/user-attachments/assets/b45916d4-078d-4bea-89d3-552bbe7a8dd1" align="left" height="350" width="100%" />  
   
 
 ## **<div align="center">Hello 👋 Myself Vivek</div>**  
